@@ -1,1 +1,2 @@
-# Indian-Brain-Tumor-Epi-based-Model-
+# (Indian-Brain-Tumor-Epi-based-Model)
+I developed an epidemiology-based forecasting model for the India brain tumor market from 2023 to 2034. I estimated the patient population by considering prevalence, diagnosis, treatment eligibility, and access rates, and segmented patients by age group and tumor grade. I analyzed treatment options, including chemotherapy, targeted therapies, and supportive medications, while considering emerging pipeline drugs. Finally, I forecasted patient volumes and market size using the number of treated patients and Annual Cost of Treatment (ACOT), incorporating treatment adoption and compliance assumptions to project future market growth and opportunities.
